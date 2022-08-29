@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+p{
+    margin-bottom: 10px;
+}
 header{
     height: 120px;
     background-color: aqua;
@@ -24,6 +27,18 @@ header{
 .date{
     font-size:15px ;
 }
+
+.important-sentence{
+    background-color: yellow;
+}
+
+ul{
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+
+
 
 
 
