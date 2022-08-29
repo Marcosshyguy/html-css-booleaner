@@ -23,6 +23,15 @@ header{
 
 }
 /* main article */
+
+.images-container{
+    width: 95%;
+    height: 400px;
+}
+.images-container img{
+    width: 45%;
+    height: 400px;
+}
 .author{
     color:grey;
 }
