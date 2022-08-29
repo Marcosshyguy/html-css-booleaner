@@ -16,6 +16,11 @@ header{
     margin-bottom: 10px;
 }
 
+.logo{
+    width: 10%;
+    margin-top: 40px;
+}
+
 .author{
     color:grey;
 }
@@ -36,6 +41,27 @@ ul{
     margin-top: 10px;
     margin-bottom:10px;
 }
+
+table{
+    width: 100%;
+    height: 200px;
+    text-align: left;
+    border-collapse: collapse;  /*serve ad eliminare il bordo da una cella all'altra*/
+
+}
+
+thead{
+    background-color: blueviolet;
+    color: white;
+}
+.ciano-table-row{
+    background-color: lightblue;
+}
+
+
+
+
+
 
 
 
