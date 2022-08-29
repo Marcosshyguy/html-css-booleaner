@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 p{
     margin-bottom: 10px;
 }
@@ -51,6 +52,7 @@ header{
 ul{
     margin-top: 10px;
     margin-bottom:10px;
+    padding-left: 20px;
 }
 
 /* main table */
@@ -83,6 +85,7 @@ h3{
     background-size: contain;
     color: white;
     font-weight: bold;
+    margin: 10px 0 10px 0;
 }
 .footer-graph-image{
     width: 200px;
