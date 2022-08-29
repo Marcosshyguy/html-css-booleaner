@@ -10,5 +10,22 @@ header{
     background-image: url(../img/pattern.png);
     background-size: cover;
     /* border: 1px solid black; */
+    margin-bottom: 10px;
 }
+
+.author > p {
+    color:grey;
+}
+
+.blog-name{
+    color:lightskyblue;
+}
+
+.date{
+    font-size:15px ;
+}
+
+
+
+
 
